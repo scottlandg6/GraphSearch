@@ -3,7 +3,7 @@ Project 3: Fun with Graphs
 Trip is a GPS application that takes location entries and distances as a database. It then accepts commands from one
 place to another and will print GPS-style directions.
 
-Link to project specs is [here](https://inst.eecs.berkeley.edu/~cs61b/fa13/labs/proj3.pdf)
+Link to project specs is [here](https://inst.eecs.berkeley.edu/~cs61b/fa13/labs/proj3.pdf).
 
 Files:
 
